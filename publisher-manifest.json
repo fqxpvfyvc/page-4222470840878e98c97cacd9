@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b7a9a254165183888dde4825",
+  "owner": "fqxpvfyvc",
+  "repo": "page-4222470840878e98c97cacd9",
+  "title": "土拨鼠",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4222470840878e98c97cacd9",
+      "a": "土拨鼠",
+      "b": "稳定全球clash加速器",
+      "entity": "土拨鼠",
+      "brand": "土拨鼠",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2759b2055a38b91d4150f13ed9ffac2f6fcc786f4e4995117ceb701d2af8a0f2",
+      "content": {
+        "primary_entity": "土拨鼠",
+        "keyword1": "土拨鼠",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择匹配的客户端，再导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐并完成订阅配置，即可开始使用。",
+          "AI_CLOSING_TITLE": "开始使用土拨鼠",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比提供简洁实际的指引。基础版适合个人轻量使用，旗舰版面向多设备与流媒体、游戏加速需求，团队版满足高流量与多设备场景。",
+          "AI_FEATURES_INTRO": "从套餐、设备与订阅周期三个角度了解土拨鼠。",
+          "AI_FEATURES_TITLE": "选择与配置要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB、3台设备；旗舰版300GB、5台设备；团队版1000GB、20台设备。",
+          "AI_FEATURE_TEXT_2": "按设备系统选择匹配客户端，再按文档导入订阅地址完成配置。",
+          "AI_FEATURE_TEXT_3": "月付适合短期体验，年付方案在价格上更划算，可按使用周期决定。",
+          "AI_FEATURE_TITLE_1": "套餐与流量",
+          "AI_FEATURE_TITLE_2": "设备与订阅",
+          "AI_FEATURE_TITLE_3": "周期选择",
+          "AI_GUIDE_INTRO": "三步完成从选择到配置的流程。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "土拨鼠提供多种套餐与客户端配置方案，用户可根据设备数量、流量需求和使用周期选择基础版、旗舰版或团队版，并按客户端说明导入订阅后使用。",
+          "AI_HERO_SUBTITLE": "土拨鼠多套餐灵活选",
+          "AI_HIGHLIGHT_1": "基础版每月15元",
+          "AI_HIGHLIGHT_2": "旗舰版每月35元",
+          "AI_HIGHLIGHT_3": "团队版每月85元",
+          "AI_PLANS_INTRO": "基础版适合轻量个人，旗舰版覆盖多设备与流媒体游戏，团队版支持高流量。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量、每月流量与使用周期，在基础版、旗舰版、团队版中选定套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量、流量额度与线路说明，确认满足日常需要。",
+          "AI_STEP_TEXT_3": "按对应客户端的文档导入订阅地址，完成设备配置后即可使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "土拨鼠海外加速",
+          "AI_FAQ_ANSWER_1": "基础版适合单人日常使用，每月 100GB 流量、3 台设备在线；旗舰版为每月 300GB、5 台设备，并含 IPLC 专线游戏加速；团队版每月 1000GB、20 台设备，支持企业定制路由。",
+          "AI_FAQ_ANSWER_2": "基础版与旗舰版分别支持 3 台和 5 台设备同时在线，团队版支持 20 台。可在路由器、手机、电脑等设备上配置，超过数量需升级套餐。",
+          "AI_FAQ_ANSWER_3": "按年付更划算：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。按月付则分别为 ¥15/月、¥35/月、¥85/月。",
+          "AI_FAQ_ANSWER_4": "先确认设备系统与客户端，在土拨鼠订阅页面获取订阅链接，再按对应客户端文档粘贴导入并启用。不同客户端导入方式略有差异。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化与全节点原生流媒体解锁；团队版提供 VIP 专属高带宽节点和定制路由。基础版为普通线路节点池。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版的主要区别是什么？",
+          "AI_FAQ_QUESTION_2": "一个账号能同时支持多少台设备？",
+          "AI_FAQ_QUESTION_3": "按年付和按月付哪个更划算？",
+          "AI_FAQ_QUESTION_4": "订阅应该如何导入客户端？",
+          "AI_FAQ_QUESTION_5": "哪些套餐包含 IPLC 专线或流媒体解锁？",
+          "AI_FAQ_TITLE": "订阅与套餐常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nxmzy.cn",
+    "host": "nxmzy.cn"
+  },
+  "file_hashes": {
+    "index.html": "ae78e72d3416c298be0e801d080d679e45d2fbea493968bc2da7748714e7a8c1",
+    "sitemap.xml": "85ee3bcb6937eedb26fe03ebf0db09f70629334f58c101b8a9ea7cbbf2aa78a1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0e554eacf672c45f3678cd65692bc11dfff4f24f943020ce0e90aaf83209733e",
+    "robots.txt": "69c4ea9e3e928c0c144f64056d2b37ffb15476a9bf01b9228900e610d4d56d2f",
+    "cb6954e7a421ae8bf9fc87390441caec.txt": "afe24f33d96481d7e74d8e69c366dbba7bc8638cf96a5d3f0a644faac1a49624"
+  },
+  "revision": "6f38146e50ecde26885db10eb3678291397a5fd81b8aecdc26ce078f46c2cf07"
+}
